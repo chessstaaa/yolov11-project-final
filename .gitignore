@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# YOLO training output
+runs/
+
+# Dataset (opsional, biasanya jangan diupload)
+train/
+valid/
+test/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+#Dataset file
+dataset-file/
