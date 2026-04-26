@@ -8,6 +8,6 @@ names: ['artillery', 'car', 'explosion', 'military_truck', 'military_vehicle', '
 roboflow:
   workspace: chesta-ha8kr
   project: military_footage_recognition-jgznc
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/chesta-ha8kr/military_footage_recognition-jgznc/dataset/1
+  url: https://universe.roboflow.com/chesta-ha8kr/military_footage_recognition-jgznc/dataset/2

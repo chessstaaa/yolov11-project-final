@@ -1,8 +1,8 @@
 
-military_footage_recognition - v1 Versi 1.0.0
+military_footage_recognition - v2 Versi 1.0.1
 ==============================
 
-This dataset was exported via roboflow.com on April 20, 2026 at 1:42 PM GMT
+This dataset was exported via roboflow.com on April 25, 2026 at 11:57 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -21,6 +21,9 @@ The dataset includes 6149 images.
 Vehicles-persons-explosions are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
+* Auto-orientation of pixel data (with EXIF-orientation stripping)
+* Resize to 640x640 (Fit within)
+* Grayscale (CRT phosphor)
 
 No image augmentation techniques were applied.
 

@@ -1,4 +1,4 @@
-# military_footage_recognition > Versi 1.0.0
+# military_footage_recognition > Versi 1.0.1
 https://universe.roboflow.com/chesta-ha8kr/military_footage_recognition-jgznc
 
 Provided by a Roboflow user
