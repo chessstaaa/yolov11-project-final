@@ -19,4 +19,5 @@ test/
 .DS_Store
 
 #Dataset file
-dataset-file/
+datasets_test/
+data.yaml
