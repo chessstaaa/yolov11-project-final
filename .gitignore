@@ -19,6 +19,11 @@ test/
 .DS_Store
 
 #Dataset file
+<<<<<<< HEAD
 dataset-file/
 data.yaml
 video_datasets/
+=======
+datasets_test/
+data.yaml
+>>>>>>> 4ab7c68faf65c3ff553174eb509406d6dff5fb8f
