@@ -20,3 +20,5 @@ test/
 
 #Dataset file
 dataset-file/
+data.yaml
+video_datasets/
